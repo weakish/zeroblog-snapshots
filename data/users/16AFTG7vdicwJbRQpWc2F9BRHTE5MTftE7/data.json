@@ -1,0 +1,28 @@
+{
+	"next_comment_id": 3,
+	"comment": [
+		{
+			"comment_id": 1,
+			"body": "> [nofish](#comment_85_1J3rJ8ecnwH2EPYa6MrgZttBNc61ACFiCj): any suggestions for the social site name?\nSafe,Private,Free \n",
+			"post_id": 83,
+			"date_added": 1463136098
+		},
+		{
+			"comment_id": 2,
+			"body": "@nofish if you know that Zeronet can work on that low cost hard ware pls add support or request help in community about making iOS and Android Apps!",
+			"post_id": 94,
+			"date_added": 1474395534
+		}
+	],
+	"comment_vote": {},
+	"post_vote": {
+		"72": 1,
+		"73": 1,
+		"74": 1,
+		"75": 1,
+		"79": 1,
+		"83": 1,
+		"91": 1,
+		"94": 1
+	}
+}

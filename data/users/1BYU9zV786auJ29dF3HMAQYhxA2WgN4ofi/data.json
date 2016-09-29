@@ -1,0 +1,21 @@
+{
+	"next_comment_id": 3,
+	"comment": [
+		{
+			"comment_id": 1,
+			"body": "Hi!, when I add a password following the documentation I get the following error: \n`zeronet.py: error: unrecognized arguments: --ui_password anypassword`\n\nWhat I'm doing wrong?",
+			"post_id": 94,
+			"date_added": 1474642695
+		},
+		{
+			"comment_id": 2,
+			"body": "> [eibriel](#comment_1_1BYU9zV786auJ29dF3HMAQYhxA2WgN4ofi): Hi!, when I add a password following the documentation I get the following error:zeronet.py: error: unrecognized arguments: --ui_password anypassword\n> What I'm doing wrong?\n\nOh! I get it, I forget to enable de UiPassword plugin",
+			"post_id": 94,
+			"date_added": 1474642841
+		}
+	],
+	"comment_vote": {},
+	"post_vote": {
+		"94": 1
+	}
+}

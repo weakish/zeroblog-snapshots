@@ -1,0 +1,17 @@
+{
+	"next_comment_id": 2,
+	"comment": [
+		{
+			"comment_id": 1,
+			"body": "I'm on OSX/Safari and while the scroll position indeed returns to where it was, I can't seem to scroll with my trackpad as usual. Instead, I have to manually drag the scroll bar until I navigate to a new page or refresh.",
+			"post_id": 74,
+			"date_added": 1456809142
+		}
+	],
+	"comment_vote": {},
+	"topic_vote": {},
+	"post_vote": {
+		"89": 1,
+		"90": 1
+	}
+}

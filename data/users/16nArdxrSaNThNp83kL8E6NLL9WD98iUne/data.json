@@ -1,0 +1,28 @@
+{
+	"next_comment_id": 4,
+	"comment": [
+		{
+			"comment_id": 1,
+			"body": "Will this be live streamed? I don't live within driving distance of California.",
+			"post_id": 84,
+			"date_added": 1464586928
+		},
+		{
+			"comment_id": 2,
+			"body": "> [jayofthezero](#comment_1_16nArdxrSaNThNp83kL8E6NLL9WD98iUne): Will this be live streamed? I don't live within driving distance of California.\n\nDid some digging for myself, and yes, the event will be live streamed, though not sure if this specifically will be.",
+			"post_id": 84,
+			"date_added": 1464644044
+		},
+		{
+			"comment_id": 3,
+			"body": "At this rate you'll need a vacation from your vacation.",
+			"post_id": 88,
+			"date_added": 1468874432
+		}
+	],
+	"comment_vote": {},
+	"topic_vote": {},
+	"post_vote": {
+		"84": 1
+	}
+}

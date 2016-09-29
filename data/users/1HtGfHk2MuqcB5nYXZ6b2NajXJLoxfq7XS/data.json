@@ -1,0 +1,23 @@
+{
+	"next_comment_id": 3,
+	"comment": [
+		{
+			"comment_id": 1,
+			"body": "test",
+			"post_id": 38,
+			"date_added": 1432582324
+		},
+		{
+			"comment_id": 2,
+			"body": "great !!!",
+			"post_id": 39,
+			"date_added": 1432724871
+		}
+	],
+	"comment_vote": {},
+	"post_vote": {
+		"64": 1,
+		"66": 1,
+		"92": 1
+	}
+}

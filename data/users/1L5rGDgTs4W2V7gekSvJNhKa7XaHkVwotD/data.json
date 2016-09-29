@@ -1,0 +1,19 @@
+{
+	"next_comment_id": 2,
+	"comment": [
+		{
+			"comment_id": 1,
+			"body": "If I want update cloned blog I must:\n- Copy and overwrite every file and directory from data/1BLogC9LN... to data/mysiteaddress except \"data\" directory and \"content.json\"\n- Sign + Publish my blog using the sidebar\n\nHow about cloned forum?",
+			"post_id": 81,
+			"date_added": 1460982976
+		}
+	],
+	"comment_vote": {},
+	"post_vote": {
+		"77": 1,
+		"81": 1,
+		"82": 1,
+		"91": 1,
+		"92": 1
+	}
+}

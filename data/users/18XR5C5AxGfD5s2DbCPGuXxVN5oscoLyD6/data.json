@@ -1,0 +1,25 @@
+{
+	"next_comment_id": 4,
+	"comment": [
+		{
+			"comment_id": 1,
+			"body": "Any doc with javascript ? I don't want to learn this coffeeScript thing. And seem like I would not have to do it as it run in javascript in reality. (from What I understand)",
+			"post_id": 43,
+			"date_added": 1469887852
+		},
+		{
+			"comment_id": 2,
+			"body": "> [gomzik](#comment_2_1F6BMqittjWUStzUbRXm2kG2GQ3RdBLqFQ): ES6 Version of ZeroFrame - https://gist.github.com/GomZik/02e85df5fb7a5eb819cd\n\nthx  Now this I can read it :D",
+			"post_id": 43,
+			"date_added": 1469913096
+		},
+		{
+			"comment_id": 3,
+			"body": "what is the zerome url ? \n",
+			"post_id": 89,
+			"date_added": 1474917660
+		}
+	],
+	"comment_vote": {},
+	"topic_vote": {}
+}

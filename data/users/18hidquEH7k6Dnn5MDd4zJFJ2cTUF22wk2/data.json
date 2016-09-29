@@ -1,0 +1,13 @@
+{
+	"next_comment_id": 2,
+	"comment": [
+		{
+			"comment_id": 1,
+			"body": "Good, before this update, my zeronet bundel need more than 3min to startup, and used more than 80MB RAM, Now only needs 20sec to startup and 75MB RAM to run, thanks",
+			"post_id": 92,
+			"date_added": 1473210754
+		}
+	],
+	"comment_vote": {},
+	"topic_vote": {}
+}
